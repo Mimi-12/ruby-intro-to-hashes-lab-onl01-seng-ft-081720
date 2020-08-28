@@ -6,7 +6,7 @@ end
 
 
 def actor
- actor = {:Matt_Damon}
+ actor_name = {:Matt_Damon}
 
 end
 
