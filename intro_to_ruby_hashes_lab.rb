@@ -1,5 +1,9 @@
+require 'pry'
+
 def new_hash
+  binding.pry
 creates_and _returns = {}
+binding.pry
 end
 
 
