@@ -1,4 +1,4 @@
-def new_hash =
+def new_hash 
 creates_and _returns = {}
 end
 
