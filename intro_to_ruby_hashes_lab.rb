@@ -1,9 +1,6 @@
 require 'pry'
 
-def new_hash
-creates = {
-  :earth => {},
-}
+def new_hash = 
 
 end
 
