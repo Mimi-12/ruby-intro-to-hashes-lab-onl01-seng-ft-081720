@@ -6,7 +6,7 @@ end
 
 
 def actor
-
+ stage_name = {:jose}
 end
 
 def monopoly
