@@ -6,7 +6,7 @@ end
 
 
 def actor
- name = {:actor_name => "Dwayne The Rock Johnson "}
+ name = {:actor_name => {"Dwayne The Rock Johnson "}}
 end
 
 def monopoly
