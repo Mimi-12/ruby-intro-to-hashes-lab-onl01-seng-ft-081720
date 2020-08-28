@@ -1,7 +1,7 @@
 require 'pry'
 
-def new_hash =
-
+def new_hash
+empty = {}
 end
 
 
