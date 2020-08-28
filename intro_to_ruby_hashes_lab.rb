@@ -1,7 +1,8 @@
-def new_hash =
-  empty_hash = {}
+def new_hash
+
 end
-empty_hash
+
+
 def actor
 
 end
