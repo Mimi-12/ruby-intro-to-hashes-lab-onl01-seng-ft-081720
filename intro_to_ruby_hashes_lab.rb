@@ -1,5 +1,7 @@
-def new_hash = 
-creates and returns
+def new_hash =
+creates and returns = {
+
+}
 end
 
 
