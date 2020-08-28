@@ -6,7 +6,7 @@ end
 
 
 def actor
- stage_name = {:name => {"matt damon"}}
+ stage_name = {:name => "matt damon"}
 end
 
 def monopoly
