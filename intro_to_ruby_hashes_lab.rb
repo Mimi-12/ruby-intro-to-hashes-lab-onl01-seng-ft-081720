@@ -6,7 +6,7 @@ end
 
 
 def actor
- act = {
+ empty = {
  :actor_name => {"Dwayne The Rock Johnson "}
 }
 end
